@@ -7,7 +7,7 @@ const rod = {
     pronouns: "He" | "Him",
     code: ["Python", "HTML"],
     technologies: {
-        backend: ["Flask"],
+        backend: ["Flask", "CapJS", "CapLang"],
         automationTools: ["cap-lang"],
         gameDev: ["RPG"],
     },
