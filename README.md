@@ -20,7 +20,6 @@ const rod = {
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=R7LRod)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R7LRod)
 [![trophy](https://github-profile-trophy.vercel.app/?username=R7LRod)](https://github.com/R7LRod)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=R7LRod)](https://git.io/streak-stats)
 
 ## Skills 🛠️
 
