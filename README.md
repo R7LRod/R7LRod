@@ -5,7 +5,7 @@
 ```javascript
 const rod = {
     pronouns: "He" | "Him",
-    code: ["Python", "HTML"],
+    code: ["Python", "HTML", "Javascript"],
     technologies: {
         backend: ["Flask", "CapJS", "CapLang"],
         automationTools: ["cap-lang"],
